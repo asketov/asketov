@@ -2,4 +2,4 @@
 <h4> Студент военмеха, 3 курс, направление: "Информационные системы и технологии"</h4>
 <h4> Технологии, которые в данный момент изучаю: </h4>
 <h3> Frontend: React Ts/Js, Html, Css/Scss </h3>
-<h3> Backend: C#, WebApi, .Net Core 5/6, EF  </h3>
+<h3> Backend: C#, WebApi, .Net 5/6, EF  </h3>
